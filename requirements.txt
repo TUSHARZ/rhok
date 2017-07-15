@@ -1,3 +1,3 @@
-v
-*pyc
-
+Django==1.11.3
+djangorestframework==3.6.3
+pytz==2017.2
