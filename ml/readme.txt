@@ -1,0 +1,1 @@
+main karta hoon shuru
