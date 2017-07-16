@@ -1,16 +1,16 @@
 window.onload = function () {
 
-      var dps = [{x:30.45 , y: 1999}, {x: 32.37, y: 2000}, {x: 33.76, y: 2001}, {x: 34.9, y: 2002}, {x: 39.13, y: 2003},{x: 41.36, y: 2004}, {x: 44.35, y: 2005}, {x: 46.34, y: 2006}, {x: 49.19, y: 2007}, {x: 50.97, y: 2008}];   //dataPoints. 
+      var dps = [{y:30.45 , x: 1999}, {y: 32.37, x: 2000}, {y: 33.76, x: 2001}, {y: 34.9, x: 2002}, {y: 39.13, x: 2003},{y: 41.36, x: 2004}, {y: 44.35, x: 2005}, {y: 46.34, x: 2006}, {y: 49.19, x: 2007}, {y: 50.97, x: 2008}];   //dataPoints. 
 
       var chart = new CanvasJS.Chart("chartContainer",{
         title :{
           text: "Radiations according to year"
         },
         axisX: {            
-          title: "Radiations"
+          title: "Year"
         },
         axisY: {            
-          title: "Year"
+          title: "Radiations"
         },
         data: [{
           type: "line",
@@ -41,6 +41,6 @@ window.onload = function () {
 
 };
 
-setInterval(function(){updateChart()}, updateInterval); 
+ 
 }
        
