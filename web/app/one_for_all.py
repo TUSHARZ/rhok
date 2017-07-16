@@ -77,36 +77,42 @@ while True:
 		print "we reached here"
 		get_data('ourHawk.csv', 5, 13)
 		predicted_death = predict_death(variable, death, 90)  
-		
+		mydict
+		print predicted_death
 		break
 	
 	elif int(choice) == 2:
 		get_data('ourHawk.csv', 7, 11)
 		predicted_death = predict_death(variable, death, 90)  
+		mydict = mydict
 		print predicted_death
 		break
 
 	elif int(choice) == 3:
 		get_data('ourHawk.csv', 4, 14)
 		predicted_death = predict_death(variable, death, 90)  
+		mydict = mydict
 		print predicted_death
 		break
 
 	elif int (choice)==4:
 		get_data('ourHawk.csv', 12, 17)
 		predicted_death = predict_death(variable, death, 90)  
+		mydict = mydict
 		print predicted_death
 		break
 
 	elif int(choice) == 5:
 		get_data('ourHawk.csv', 1, 15)
 		predicted_death = predict_death(variable, death, 90)  
+		mydict = mydict
 		print predicted_death
 		break
 
 	elif int(choice) == 6:
 		get_data('ourHawk.csv', 9, 16)
-		predicted_death = predict_death(variable, death, 90)  
+		predicted_death = predict_death(variable, death, 90) 
+		mydict = mydict 
 		print predicted_death
 		break
 
