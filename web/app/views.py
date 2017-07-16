@@ -1,6 +1,8 @@
 from app import app
 from flask import render_template
 
+import one_for_all
+
 @app.route("/")
 @app.route("/index")
 def index():
@@ -9,7 +11,6 @@ def index():
 
 @app.route("/disease")
 def diseases():
-	content = {
-	'disease' : 'cardiovascular',
-	}
+	
+	# content = one_for_all.mydict
 	return render_template('disease.html', contents = content)
