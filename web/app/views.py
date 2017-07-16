@@ -15,6 +15,6 @@ def diseases():
 	return render_template('disease.html', contents = content)
 
 
-@app.route("/sense")
-def sense():
-	return render_template('sense.html', contents = {})
+@app.route("/well")
+def well():
+	return render_template('well.html', contents = {})
