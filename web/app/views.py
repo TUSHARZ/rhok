@@ -7,3 +7,9 @@ def index():
 	return render_template('home.html', contents = {})
 
 
+@app.route("/disease")
+def diseases():
+	content = {
+	'disease' : 'cardiovascular',
+	}
+	return render_template('disease.html', contents = content)
