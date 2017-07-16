@@ -8,3 +8,5 @@ Random Hacks of Kindness | 2017
 3. Only push when something is working.
 
 Lets win this people! 
+
+The deck: https://slides.com/vinceresempre/deck-1/edit
