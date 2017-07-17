@@ -1,7 +1,6 @@
 # rhok
-<h1> Golden Blyth </h1>
-<h2> Runner-up,</h2>
-<h2> Random Hacks of Kindness | 2017 </h2>
+<h2> Golden Blyth, Runner-up,</h2>
+<h3> Random Hacks of Kindness | 2017 </h3>
 
 A web platform to help governments & ngos make better policies using AI backed predictions. 
 
