@@ -1,12 +1,19 @@
 # rhok
-Random Hacks of Kindness | 2017
+<h1> Golden Blyth </h1>
+<h2> Runner-up,</h2>
+<h2> Random Hacks of Kindness | 2017 </h2>
 
-==== To All ====
+A web platform to help governments & ngos make better policies using AI backed predictions. 
 
-1. Pull before pushing anything.
-2. Work in your designaed folder.
-3. Only push when something is working.
+<b> Status </b>
+<p> In development </p>
 
-Lets win this people! 
+<b> Collaborators </b>
+<a href="https://github.com/tanya-vedi">@tanya-vedi</a> 
+<a href="https://github.com/storytellerr"> @shashank-sharma</a>
+<a href="https://github.com/TUSHARZ"> @tushar-gupta</a>
+<a href="https://github.com/imsharvanj"> @sharvan-jeet</a>
+</br>
 
-The deck: https://slides.com/vinceresempre/deck-1/edit
+
+The deck: https://slides.com/vinceresempre/deck-1/#
