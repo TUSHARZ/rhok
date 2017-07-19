@@ -15,4 +15,4 @@ A web platform to help governments & ngos make better policies using AI backed p
 </br>
 
 
-The deck: https://slides.com/vinceresempre/deck-1/#
+The deck: http://slides.com/vinceresempre/deck#/
